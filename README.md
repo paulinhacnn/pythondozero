@@ -18,4 +18,4 @@ Primeiro Baixe: https://www.python.org/downloads/windows/
 
 Depois siga esses passos no tutorial abaixo:
 
-https://python.org.br/instalacao-windows/
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/
