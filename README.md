@@ -30,3 +30,7 @@ https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA
 Livro: Pense em Python
 
 https://penseallen.github.io/PensePython2e/
+
+Curso de Python:
+
+ http://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=1
