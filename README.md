@@ -5,7 +5,20 @@ Bem vindxs ao curso de **Python do Zero**! aqui você encontrará:
 - O [Tutorial de Python](PyDo0.ipynb) com os exemplos práticos
 - E muitas outras [Dicas de Tutoriais e livros para continuar os estudos](#tutoriais-e-livro-para-continuar-os-estudos)
 
-## Instalação do Python3.6 Linux (ubuntu)
+## Instalação do Python 3.6
+Instale o Python na sua maquina, de acordo com o seu sistema operacional
+
+### Se seu sistema for Windows:
+
+Primeiro baixe nesse site: https://www.python.org/downloads/windows/
+
+Depois siga esses passos no tutorial abaixo:
+
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+
+### Se seu sistema for Linux (ubuntu):
+
+Execute os comandos abaixo no terminal do Linux
 
 ```
 $ sudo apt-get install software-properties-common
@@ -17,18 +30,10 @@ $ sudo apt-get update
 $ sudo apt-get install python3.6
 ```
 
-## Instalação do Python3 Windows
-
-Primeiro Baixe: https://www.python.org/downloads/windows/
-
-Depois siga esses passos no tutorial abaixo:
-
-https://www.howtogeek.com/197947/how-to-install-python-on-windows/
-
 ## O Tutorial de Python do Zero
-Agora que você instalou o Python na sua maquina, abra o terminal e siga os passos do tutorial no [nesse link aqui](PyDo0.ipynb) :)
+Agora que você instalou o Python, **abra o terminal do Python** e siga os passos do tutorial no [nesse link aqui](PyDo0.ipynb) :)
 
-## Tutoriais e livros para continuar os estudos
+## Dicas de Tutoriais e livros para continuar os estudos
 
 Curso de Python DU:
 
