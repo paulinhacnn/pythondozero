@@ -23,10 +23,6 @@ https://www.howtogeek.com/197947/how-to-install-python-on-windows/
 
 # Tutoriais e livro para continuar os estudos
 
-eXcript:
-
-https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj
-
 Python para Zumbis:
 
 https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA
