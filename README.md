@@ -2,7 +2,7 @@
 
 Bem vindxs ao curso de **Python do Zero**! aqui você encontrará:
 - A instalação do Python para [Windows](#instala%C3%A7%C3%A3o-do-python3-windows) ou [Linux](#instala%C3%A7%C3%A3o-do-python36-linux)
-- O [Tutorial de Python](/paulinhacnn/pythondozero/blob/master/PyDo0.ipynb) com os exemplos práticos
+- O [Tutorial de Python](PyDo0.ipynb) com os exemplos práticos
 - E muitas outras [Dicas de Tutoriais e livros para continuar os estudos](#tutoriais-e-livro-para-continuar-os-estudos)
 
 ## Instalação do Python3.6 Linux (ubuntu)
