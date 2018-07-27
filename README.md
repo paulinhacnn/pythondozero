@@ -1,7 +1,7 @@
 # pythondozero
 
 Bem vindxs ao curso de **Python do Zero**! aqui você encontrará:
-- A instalação do Python para [Windows](#instala%C3%A7%C3%A3o-do-python3-windows) ou [Linux](#instala%C3%A7%C3%A3o-do-python36-linux)
+- A instalação do Python para [Windows](#se-seu-sistema-for-windows) ou [Linux](#se-seu-sistema-for-linux-ubuntu)
 - O [Tutorial de Python](PyDo0.ipynb) com os exemplos práticos
 - E muitas outras [Dicas de Tutoriais e livros para continuar os estudos](#tutoriais-e-livro-para-continuar-os-estudos)
 
