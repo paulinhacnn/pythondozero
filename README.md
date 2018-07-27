@@ -25,6 +25,8 @@ Depois siga esses passos no tutorial abaixo:
 
 https://www.howtogeek.com/197947/how-to-install-python-on-windows/
 
+## O Tutorial de Python do Zero
+Agora que você instalou o Python na sua maquina, abra o terminal e siga os passos do tutorial no [nesse link aqui](PyDo0.ipynb) :)
 
 ## Tutoriais e livros para continuar os estudos
 
